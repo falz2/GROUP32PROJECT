@@ -88,7 +88,7 @@ form{
 }
 form input{
     width: 100%;
-    margin: 0 auto;
+    margin: 10px auto;
     padding: 12px;
     border-radius: 25px;
     border: 1px solid gray;
@@ -118,3 +118,4 @@ form input{
 
 
   
+
