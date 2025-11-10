@@ -114,8 +114,16 @@ form input{
    .rights{
     margin: 40px;
    }
+@media(max-width:400px){
+   form{
+    width: 100%;
+    margin: 0 auto;
+     background:rgb(218, 213, 213);
+     
+} }
 
 
 
   
+
 
